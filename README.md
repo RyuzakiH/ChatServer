@@ -7,6 +7,6 @@ After Building
 2. Login with any username and password <br/>
 3. Connect to the other users and start chatting <br/>
 
-![ChatServerPreview](https://i.imgur.com/hmP17q3.gif)
+<img src="/assets/ChatServer.gif?raw=true">
 
 Needs Enhancement
