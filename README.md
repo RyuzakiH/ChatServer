@@ -1,5 +1,5 @@
 # ChatServer
-A simple Chat Server/Client using TCP (Peer To Peer) in .NET
+A simple GUI Chat Server/Client using TCP (Peer To Peer) in .NET
 
 # Usage
 After Building
